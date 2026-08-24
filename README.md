@@ -6,12 +6,14 @@ leetcode learning
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/SakinaE/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/SakinaE/leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/SakinaE/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SakinaE/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/SakinaE/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SakinaE/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -43,5 +45,6 @@ leetcode learning
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/SakinaE/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/SakinaE/leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
